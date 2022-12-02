@@ -28,4 +28,7 @@ as soon as possible. The current logo is going to be a </> symbol which is taken
 available stock photos.
 
 # The logo is not currently being changed as the website is under construction.
+
+# The fonts used in the website, namely Encode Sans Condensed and SF Mono are properties of their
+owners Google Fonts and Apple Inc. respectively.
 ```
